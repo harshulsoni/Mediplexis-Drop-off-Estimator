@@ -1,0 +1,17 @@
+The main libraries involved in this tutorial are:
+Pandas for data manipulation
+Matplotlib and seaborn for data visualization
+Numpy for multidimensional array computing
+sklearn for machine learning and predictive modeling
+
+
+Installation procedure
+
+A very easy way to install these packages is to download and install the Conda distribution that encapsulates them all. This distribution is available on all platforms (Windows, Linux and Mac OSX).
+
+Open terminal
+type 'jupyter notebook'
+select 718IT13.ipynb
+execute all.
+
+output: 718IT13.csv
